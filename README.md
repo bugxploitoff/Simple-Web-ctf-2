@@ -1,9 +1,9 @@
-# Simple-Web-CTF
+# Simple-Web-CTF-2
 --------------------------------------------
 ## CTF DESC
 CTF TYPE : WEB <br />
 CTF POINT : 10<br />
-CTF Language : HTML, CSS, JS<br />
+CTF Language : HTML, CSS, JS, php<br />
 CTF Description : find me if you can i have divided the fflag into Horcruxes<br />
 
 ---------------------------------------------

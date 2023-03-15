@@ -8,7 +8,7 @@ CTF Description : Its just a misconfig<br />
 
 ## Deployment 
 <ul>
-  <li> CLONE THE REPO : git clone https://github.com/bugxploitoff/Simple-Web-CTF.git</li>
+  <li> CLONE THE REPO : git clone https://github.com/bugxploitoff/Simple-Web-ctf-2.git</li>
   <li>For linux</li>
     <ul>
       <li> apt-get install apache2</li>
